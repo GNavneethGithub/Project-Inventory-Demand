@@ -1,4 +1,4 @@
-# Grupo Bimbo Inventory Demand Forecasting
+# Inventory Demand Forecasting
 
 ## Objective
 The primary objective of this project is to develop a predictive model to accurately forecast inventory demand for Grupo Bimbo, ensuring a steady supply of over 100 bakery products across 1 million stores along its 45,000 routes throughout Mexico. By achieving precise forecasts, we aim to minimize the surplus, reduce the amount spent on refunds to store owners for unsold products, and ensure that consumers are not greeted with empty shelves.
