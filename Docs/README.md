@@ -19,7 +19,6 @@ The primary objective of this project is to develop a predictive model to accura
    - Capable of capturing complex relationships in the data by dividing the dataset into subsets based on the values of input features.
 ### 3.c Random Forest
    - An ensemble method that can capture the non-linear relationships in the data and provide a robust prediction by averaging the predictions of multiple decision trees.
-... (Include other models as per your project)
 
 ## Conclusion
 The project successfully delivers a model capable of forecasting the inventory demand for Grupo Bimbo with a reasonable level of accuracy. The insights derived from this project are instrumental in optimizing the supply chain operations, reducing wastage, and improving customer satisfaction by ensuring the availability of products.
